@@ -1,0 +1,2 @@
+var userInput = prompt("Please enter the price of the product!");
+alert("You have to pay " + userInput + " euro, it includes VAT: " + 0.19 * userInput + " and gross value: " + 0.81 * userInput + "! Thank you!");
